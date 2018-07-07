@@ -51,7 +51,7 @@ Genotype ( AA, Aa, or aa).
 
 
 ## Ordinal variable
-## List any categorical variable that is ordinal.
+### List any categorical variable that is ordinal.
 
 
 Ordinal
