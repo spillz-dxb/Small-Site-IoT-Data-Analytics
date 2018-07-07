@@ -1,4 +1,4 @@
-##Basic Statistics Terms
+## Basic Statistics Terms
 
 * Bayes Rule:
 	* Likelihood P(Data|theta)
