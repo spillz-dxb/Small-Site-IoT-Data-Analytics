@@ -1,5 +1,7 @@
 # Introduction-to-statistics
 
+Start here   Introduction-to-statistics/intro-sql-stats/1a.-Descriptive-Statistics-1.md 
+
 
 Links
 https://kannan-kasthuri.github.io/
