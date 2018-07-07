@@ -1,8 +1,13 @@
 # Introduction-to-statistics
 
 
-
+Variable's
  
+ 
+ 1) quantitative
+ 2) categorical
+ 3) nominal
+ 4) ordinal
  
  
  ## Quantitative Variable
@@ -16,6 +21,8 @@ https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/tables/idh_idd
 
 ## Categorical Variables
 
+http://www.statisticshowto.com/what-is-a-categorical-variable/
+
 As the name suggests, categorical variables are those variables that fall into a particular category. Hair color, gender, college major, college attended, political affiliation, disability, or sexual orientation are all categories that could have lists of categorical variables. Usually, the variables take on one of a number of fixed variables in a set.
 
 For example:
@@ -24,6 +31,9 @@ The category “gender” could contain the categorical variables “Male”, �
 
 
 ## Definition of Nominal Variable
+
+http://www.statisticshowto.com/nominal-variable/
+
 A nominal variable is another name for a categorical variable. Nominal variables have two or more categories without having any kind of natural order. they are variables with no numeric value, such as occupation or political party affiliation. Another way of thinking about nominal variables is that they are named (nominal is from Latin nominalis, meaning pertaining to names).
 
 ### Nominal variables:
@@ -38,3 +48,7 @@ Eye color (Blue, Green, Brown, Hazel).
 Type of house (Bungalow, Duplex, Ranch).
 Type of pet (Dog, Cat, Rodent, Fish, Bird).
 Genotype ( AA, Aa, or aa).
+
+
+## Ordinal variable
+## List any categorical variable that is ordinal.
