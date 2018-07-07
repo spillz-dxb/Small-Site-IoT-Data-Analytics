@@ -21,3 +21,20 @@ As the name suggests, categorical variables are those variables that fall into a
 For example:
 The category “hair color” could contain the categorical variables “black,” “brown,” “blonde,” and “red.”
 The category “gender” could contain the categorical variables “Male”, “Female”, or “Other.
+
+
+## Definition of Nominal Variable
+A nominal variable is another name for a categorical variable. Nominal variables have two or more categories without having any kind of natural order. they are variables with no numeric value, such as occupation or political party affiliation. Another way of thinking about nominal variables is that they are named (nominal is from Latin nominalis, meaning pertaining to names).
+
+### Nominal variables:
+
+Cannot be quantified. In other words, you can’t perform arithmetic operations on them, like addition or subtraction, or logical operations like “equal to” or “greater than” on them.
+Cannot be assigned any order.
+
+
+### Examples of Nominal Variables
+Gender (Male, Female, Transgender).
+Eye color (Blue, Green, Brown, Hazel).
+Type of house (Bungalow, Duplex, Ranch).
+Type of pet (Dog, Cat, Rodent, Fish, Bird).
+Genotype ( AA, Aa, or aa).
