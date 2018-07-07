@@ -4,9 +4,9 @@
 Variable's
  
  
- 1) quantitative
- 2) categorical
- 3) nominal
+ 1) quantitative (Numerical data. for example hight as a number)
+ 2) categorical or quantitative (for example high as small or large)
+ 3) nominal 
  4) ordinal
  
  
@@ -52,3 +52,7 @@ Genotype ( AA, Aa, or aa).
 
 ## Ordinal variable
 ## List any categorical variable that is ordinal.
+
+
+Ordinal
+With ordinal scales, it is the order of the values is what’s important and significant, but the differences between each one is not really known.  Take a look at the example below.  In each case, we know that a #4 is better than a #3 or #2, but we don’t know–and cannot quantify–how much better it is.  For example, is the difference between “OK” and “Unhappy” the same as the difference between “Very Happy” and “Happy?”  We can’t say.
