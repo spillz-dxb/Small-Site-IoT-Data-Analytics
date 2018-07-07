@@ -1,6 +1,17 @@
 # Introduction-to-statistics
 
 
+Links
+https://kannan-kasthuri.github.io/
+
+https://www.youtube.com/watch?v=tFRXsngz4UQ&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=6
+
+http://www.statisticshowto.com/nominal-variable/
+
+https://www.youtube.com/watch?v=T90TKziGww0&list=PL81q4c-7sBgt3GUazdH-_I7vn-b0rnCg4
+
+
+
 Variable's
  
  
