@@ -20,7 +20,10 @@ https://www.youtube.com/watch?v=T90TKziGww0&list=PL81q4c-7sBgt3GUazdH-_I7vn-b0rn
 
 
 Variable's
- 
+
+Best Vid for Nominal, ordinal, interval and ratio data: How to Remember the differences
+
+https://www.youtube.com/watch?v=LPHYPXBK_ks
  
  1) quantitative (Numerical data. for example hight as a number)
  2) categorical or quantitative (for example high as small or large)
