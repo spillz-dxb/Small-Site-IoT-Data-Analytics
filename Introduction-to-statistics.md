@@ -2,6 +2,11 @@
 
 Start here   Introduction-to-statistics/intro-sql-stats/1a.-Descriptive-Statistics-1.md 
 
+Google Sheets Examples of Functions
+https://www.benlcollins.com/formula-examples/
+
+
+
 
 Links
 https://kannan-kasthuri.github.io/
