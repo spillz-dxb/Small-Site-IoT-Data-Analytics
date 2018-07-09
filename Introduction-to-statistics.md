@@ -25,6 +25,7 @@ Best Vid for Nominal, ordinal, interval and ratio data: How to Remember the diff
 
 https://www.youtube.com/watch?v=LPHYPXBK_ks
 
+![alt text](https://github.com/NubeDev/Introduction-to-statistics/blob/master/images/Statistical%20Language%20%20%20Quantitative%20and%20Qualitative%20Data.png)
 
 ![alt text](https://github.com/NubeDev/Introduction-to-statistics/blob/master/images/1%20%20Nominal%20%20ordinal%20%20interval%20and%20ratio%20data%20%20How%20to%20Remember%20the%20differences%20%20%20YouTube.png)
  
