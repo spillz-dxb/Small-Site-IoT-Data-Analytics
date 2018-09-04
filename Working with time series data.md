@@ -3,6 +3,7 @@
 # Use data.table pakage
 library(data.table)
 
+### join data based of time
 
 ~~~
 new <- data.table( date = as.POSIXct( c( "2016-03-02 12:20:00", "2016-03-07 12:20:00", "2016-04-02 12:20:00" ) ), data.new = c( "t","u","v" ) )
@@ -34,6 +35,10 @@ combined
 
 ~~~
 
+
+# Joining Data in R with dplyr
+
+https://rpubs.com/williamsurles/293454
 
 
 ## Ronding up time
