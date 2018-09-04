@@ -41,5 +41,10 @@ lubridate
 round_date: Round, floor and ceiling methods for date-time objects
 
 
-# Joining Data
+## Joining Data
 https://www.r-bloggers.com/understanding-data-table-rolling-joins/
+
+
+## Cleaing data 
+
+http://garrettgman.github.io/tidying/
