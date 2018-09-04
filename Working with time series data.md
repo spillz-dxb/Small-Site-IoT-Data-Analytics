@@ -1,11 +1,12 @@
 
 
-# Use data.table pakage
-library(data.table)
-zoo
-xts
-dplyr
-tidyr
+# pakages to use
+- data.table
+- zoo
+- xts
+- dplyr
+- tidyr
+- lubridate
 
 ### join data based of time
 
