@@ -2,6 +2,10 @@
 
 # Use data.table pakage
 library(data.table)
+zoo
+xts
+dplyr
+tidyr
 
 ### join data based of time
 
