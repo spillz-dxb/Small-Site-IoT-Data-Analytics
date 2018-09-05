@@ -10,6 +10,8 @@
 
 ### join data based of time
 
+https://stackoverflow.com/questions/31876335/merge-2-dataframes-by-matching-dates
+
 ~~~
 new <- data.table( date = as.POSIXct( c( "2016-03-02 12:20:00", "2016-03-07 12:20:00", "2016-04-02 12:20:00" ) ), data.new = c( "t","u","v" ) )
 head( new, 2 )
@@ -40,6 +42,10 @@ combined
 
 ~~~
 
+
+# Joining and renaming cols
+
+https://stackoverflow.com/questions/46470099/r-combining-rows-and-renaming-values
 
 # Joining Data in R with dplyr
 
