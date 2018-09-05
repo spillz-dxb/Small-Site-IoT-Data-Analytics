@@ -50,6 +50,22 @@ https://rpubs.com/williamsurles/293454
 lubridate
 round_date: Round, floor and ceiling methods for date-time objects
 
+```
+x <- ymd_hms("2009-08-03 12:01:59.23")
+round_date(x, ".5s")
+round_date(x, "sec")
+round_date(x, "second")
+round_date(x, "minute")
+round_date(x, "5 mins")
+round_date(x, "hour")
+round_date(x, "2 hours")
+round_date(x, "day")
+round_date(x, "week")
+round_date(x, "month")
+round_date(x, "bimonth")
+```
+
+
 
 ## Joining Data
 https://www.r-bloggers.com/understanding-data-table-rolling-joins/
