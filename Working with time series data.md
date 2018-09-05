@@ -65,6 +65,11 @@ round_date(x, "month")
 round_date(x, "bimonth")
 ```
 
+## Save to a data.table (DF)
+# Make into a DF using data.table
+dt <- rbindlist(x)
+dt$ts
+
 
 
 ## Joining Data
