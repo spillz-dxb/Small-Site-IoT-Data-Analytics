@@ -3,6 +3,9 @@ Install Postgres
 
 https://linuxhint.com/install-postgresql-10-arch-linux/
 
+sudo systemctl start postgresql
+
+
 
 
 
