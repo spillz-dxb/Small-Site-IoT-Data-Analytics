@@ -9,7 +9,7 @@ sudo systemctl start postgresql
 
 
 
-
+## R lang 
 
 ```
 # install.packages("RPostgreSQL")
@@ -59,3 +59,41 @@ require(ggplot2)
 ggplot(df_postgres, aes(x = as.factor(cyl), y = mpg, fill = as.factor(cyl))) + 
   geom_boxplot() + theme_bw()
 ```
+
+
+
+## Python
+
+https://pynative.com/python-postgresql-tutorial/#Install_Psycopg2_using_pip_command
+
+
+```
+%pyspark
+
+import psycopg2
+from psycopg2 import Error
+
+connection = psycopg2.connect(user = "postgres",
+                                  password = "password",
+                                  host = "127.0.0.1",
+                                  port = "5432",
+                                  database = "postgres")
+cursor = connection.cursor()
+    # Print PostgreSQL Connection properties
+print ( connection.get_dsn_parameters(),"\n")
+    # Print PostgreSQL version
+cursor.execute("SELECT version();")
+record = cursor.fetchone()
+print("You are connected to - ", record,"\n")
+
+
+PostgreSQL_select_Query = "select * from cartable"
+cursor = connection.cursor()
+cursor.execute(PostgreSQL_select_Query)
+mobile_records = cursor.fetchall()
+
+print ("Displaying rows from mobile table using cursor.fetchall")
+for row in mobile_records:
+    print (row)
+```
+
