@@ -69,6 +69,7 @@ https://pynative.com/python-postgresql-tutorial/#Install_Psycopg2_using_pip_comm
 
 ```
 %pyspark
+%pyspark
 
 import psycopg2
 from psycopg2 import Error
@@ -80,20 +81,33 @@ connection = psycopg2.connect(user = "postgres",
                                   database = "postgres")
 cursor = connection.cursor()
     # Print PostgreSQL Connection properties
-print ( connection.get_dsn_parameters(),"\n")
+# print ( connection.get_dsn_parameters(),"\n")
     # Print PostgreSQL version
 cursor.execute("SELECT version();")
 record = cursor.fetchone()
-print("You are connected to - ", record,"\n")
+# print("You are connected to - ", record,"\n")
 
 
-PostgreSQL_select_Query = "select * from cartable"
-cursor = connection.cursor()
+# Get Coloum names
+
+cursor.execute("Select * FROM mergesql")
+colnames = [desc[0] for desc in cursor.description]
+print(colnames)
+
+
+PostgreSQL_select_Query = "select * from mergesql limit 10"
 cursor.execute(PostgreSQL_select_Query)
-mobile_records = cursor.fetchall()
+mergesql = cursor.fetchall()
 
-print ("Displaying rows from mobile table using cursor.fetchall")
-for row in mobile_records:
-    print (row)
+# print(mergesql)
+
+# for row in mergesql:
+#     print (row)
+
+
+mergesql = spark.createDataFrame(mergesql)
+mergesql.show()
+
+
 ```
 
