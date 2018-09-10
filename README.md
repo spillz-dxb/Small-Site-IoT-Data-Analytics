@@ -1,7 +1,7 @@
 
 # Objection 
 
-Be able to pull data in from IoT devices and peerform data processing and ML in R/Python or Scala using notebooks
+Be able to pull data in from IoT devices and perform data processing and ML in R/Python or Scala using notebooks
 
 
 # Data Processsing 
@@ -31,6 +31,16 @@ https://project-haystack.org/
 
 ## Json
 Need to be able to get data from by method of json
+
+
+# Setup 
+## Spark
+https://spark.apache.org/downloads.html
+
+## Zeppelin 
+
+Download and start in bin folder ./zeppelin.sh
+
 
 
 
