@@ -21,6 +21,7 @@ Connect spark/scala to timescale DB in Zeppelin using scala
 The end end result you can pull data in using Python play with it store it in postgress. Use scala if need be using zeppelin z.get/set methods, Call the data from PostgreSQL using R
 
 z.get set methods in zeppelin 
+
 https://zeppelin.apache.org/docs/0.8.0/usage/other_features/zeppelin_context.html#object-exchange
 
 
